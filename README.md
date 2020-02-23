@@ -206,6 +206,7 @@ The project has been tested on commonly used devices and browsers such as:
 - **Changelog**
   - Created html main page for the book search engine
   - Added symbol/logo for the tab
+  - Styling for font, arrangement of simple html contents
 
 ### 0.1
 

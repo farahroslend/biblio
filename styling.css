@@ -1,0 +1,7 @@
+.center_content {
+    width: 35%;
+    margin: auto;
+    margin-top: 50vh;
+    /*allow us to push the login-form into the half of the viewport */
+    transform: translateY(-50%);
+}
