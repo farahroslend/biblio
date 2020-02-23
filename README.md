@@ -327,10 +327,10 @@ The project has been deployed to GitHub Pages  - [Simon Game](https://miroslavsv
   
 ## **Credits**
 
-**Special thanks to:**
+**References**
 
-- **Sipo**
-  - for creating the sounds for me :)
+- **Miroslav Svec**
+  - Format and structure of this readme file is based of his way of documenting the project.
 
 - everyone for finding few minutes to test the project!  
 
